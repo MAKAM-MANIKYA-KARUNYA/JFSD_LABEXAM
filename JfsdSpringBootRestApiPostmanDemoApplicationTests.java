@@ -1,10 +1,10 @@
-package com.klef.jfsd_s25.rest_api;
+package com.klef.jfsd.rest_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JfsdS25SpringBootRestApiPostmanDemoApplicationTests {
+class JfsdSSpringBootRestApiPostmanDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
